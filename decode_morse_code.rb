@@ -1,4 +1,4 @@
-#!/home/angom/.rbenv/shims/ruby
+
 
 def decode_char(char)
   decoder = { '.-' => 'A', '-...' => 'B', '-.-.' => 'C', '-..' => 'D', '.' => 'E', '..-.' => 'F', '--.' => 'G',
@@ -18,3 +18,10 @@ end
 
 puts decode_char('.-')
 puts decode_word('.- --')
+
+def decode(morse_code)
+  morse_code.split('   ').map do |char|
+    decode_word(char)
+  end.join
+end
+puts decode(".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
