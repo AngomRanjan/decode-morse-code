@@ -51,9 +51,9 @@ run the program functions
 
 👤 Nizamuddin Ahmadzai
 
-- GitHub: [@Nizamudin4493](https://github.com/Nizamudin4493)
-- Twitter: [@Nizamudin4493](https://twitter.com/Nizamudin4493)
-- LinkedIn: [nizamudin4493](https://linkedin.com/in/nizamudin4493)
+- GitHub: [@Nizamuddin4493](https://github.com/Nizamuddin4493)
+- Twitter: [@Nizamuddin4493](https://twitter.com/Nizamuddin4493)
+- LinkedIn: [nizamuddin4493](https://linkedin.com/in/nizamuddin4493)
 
 ## 🤝 Contributing
 
